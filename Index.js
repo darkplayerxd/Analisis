@@ -29,7 +29,9 @@ la palabra reservada "var o let"
 /*Inicializar variables
 
 
+
 es necesario asignar un valor cuando se crea esta variable*/ 
+
 //Desde otra variable
 
 var edad = 16;
@@ -40,7 +42,7 @@ var edadestudiante = edad;
 var gradoestudiante = prompt("Ingrese un grado");
 console.log ("El grado es : " +gradoestudiante);
 
-/*Las variables
+/*Las constantes
 se crean con la palabra reservada cons
 se escribe todo en mayusculas para
 diferenciarlo de las variables*/
