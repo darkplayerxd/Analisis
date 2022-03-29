@@ -17,9 +17,6 @@ console.log("Esta es la cantidad de combustible que consumira el avion : " +comb
 
 console.log("Punto #3");
 
-var distancia = prompt("Por favor ingrese la distancia de su viaje");
-var combustible;
-combustible = distancia*(290/100);
 combustible = combustible/1000;
 console.log("Esta es la cantidad de combustible que consumira el avion : " +combustible+ " kilolitros");
 

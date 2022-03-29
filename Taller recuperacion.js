@@ -42,4 +42,4 @@ var extras = prompt("Por favor ingrese la cantidad de horas que tomo ");
 var dinero;
 extras = extras - 1;
 dinero = 1*40000+(25000*extras)
-console.log("El costo de su clase es : " +dinero );
+console.log("El costo de su clase es : " +dinero );  
