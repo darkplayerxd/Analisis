@@ -1,5 +1,6 @@
 //Juan sebastian castaño
- 
+//Quiz 
+
 console.log("Punto 1");
 
 var Arreglo=["analisis","tecnologia","desarrollo"];
