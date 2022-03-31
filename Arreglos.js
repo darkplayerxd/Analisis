@@ -38,3 +38,7 @@ miPrimerArreglo[1]=18;
 console.log(miPrimerArreglo[1])
 notaEs[[0][1]]=4.8;
 console.log(notaEs[[0][1]]);
+
+//Agregar elementos al arreglo
+
+
