@@ -2,7 +2,7 @@ Juan sebastian castaño
 10B
 
 ¿Cual es la problematica?
-Se necesita publicadad para una empresa, por ello se quiere crear una pagina web 
+Se necesita publicidad para una empresa, por ello se quiere crear una pagina web 
 y facilitar la compra del producto y previsualizacion del mismo.
 ¿Como lo solucionaran?
 Creando una pagina web con VsCode
