@@ -1,7 +1,7 @@
 //Taller for
 //Juan sebastian
 //Oscar salgado
-
+/*
 console.log("Punto #1")
 
 var num1=parseInt(prompt("Ingrese un numero ")) 
@@ -32,4 +32,35 @@ var limite=parseInt(prompt("Escribe hasta donde quieres que se genere la tabla d
       var resultado2=num4*i
     console.log(num4,"x",i,"=", resultado2)
   }
+*/
+ //Diseñe un ciclo for que reciba 10 números y los guarde en un arreglo, 
+ //escriba otro ciclo for que retorne el número mayor del arreglo.
 
+ console.log("Punto #4")
+
+var arreglonumeros=[] 
+var numeroo; 
+for(var i=1; i<=10; i++){ 
+    numeroo=parseInt(prompt("Ingrese 10 numeros "+i))
+    arreglonumeros.push(numeroo); 
+}
+var mayor=arreglonumeros[0] 
+for(var i=1; i<=10; i++){
+  if (arreglonumeros[i]>mayor){
+      mayor=arreglonumeros[i]}
+console.log("El numero mayor es " +mayor)
+}
+
+console.log("punto  #5")
+
+var arreglo5=[]
+var producto
+for(var i=1;i<=5;i++){
+  producto=prompt("ingrese los articulos que desea comprar")
+  arreglo5.push(produto)
+}
+var arregloprecio=[]
+for(var i=0;i<arreglo5.length;i++){
+  var precio=parsefloat(prompt("ingrese el precio de "+ arreglo5[i]))
+  arregloprecio.push(precio)
+}
